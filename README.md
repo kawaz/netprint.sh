@@ -1,4 +1,4 @@
-# netprint.s
+# netprint.sh
 
 CLI からセブンイレブンの [netprint](https://www.printing.ne.jp/) に印刷ジョブ登録をするスクリプト。
 
