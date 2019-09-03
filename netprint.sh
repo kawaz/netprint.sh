@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# https://github.com/kawaz/netprint.sh
 set -e
 set -o pipefail
 
